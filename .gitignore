@@ -3,4 +3,5 @@ node_modules
 resume.aux
 resume.log
 resume.out
-
+*.gz
+resume.pdf

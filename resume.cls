@@ -88,16 +88,12 @@
 	\thispagestyle{fancy}
 	\fancyhead{}
 	\fancyhead[L,C]{}
-	\fancyhead[L]{\clearance{Top Secret}}
+	% \fancyhead[L]{\clearance{Top Secret SCI with CI polygraph}}
 	\fancyhead[R]{\lastupdated}
-	\fancyhead[C]{\namesection{Josh}{Hawkins}{
-		%\urlstyle{same}\href{https://www.hawkins.is}{https://hawkins.is}
-		%\textbullet{}
-    Github:// \href{https://github.com/hawkins}{\bf hawkins}
-		\textbullet{} Twitter:// \href{https://twitter.com/hawkinjs}{\bf @hawkinjs}
-		\textbullet{} LinkedIn://  \href{https://www.linkedin.com/in/hawkinsjosh}{\bf hawkinsjosh}
-		\\
-		Email:// \href{mailto:hawkinswritescode@gmail.com}{\bf hawkinswritescode@gmail.com}
+	\fancyhead[C]{\namesection{Joe}{Hilbert}{
+    	Github:// \href{https://github.com/jhilbs3}{\bf jhilbs3}
+		Email:// \href{mailto:jhilbs3@gmail.com}{\bf jhilbs3@gmail.com} \\
+		+1-910-964-9114\\
 	}}
 	\fancyfoot[C]{} % Prevent page numbers
 	\renewcommand{\headrulewidth}{0.4pt}
