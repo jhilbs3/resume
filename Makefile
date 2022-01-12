@@ -1,6 +1,6 @@
 # Get today's date for use in the resume name
 DATE = $(shell date +%Y-%m-%d)
-RESUME = Josh_Hawkins_Resume_$(DATE).pdf
+RESUME = Joe_Hilbert_Resume_$(DATE).pdf
 
 # xelatex can be easily installed via TeX Live
 # See https://www.tug.org/texlive/acquire-netinstall.html
