@@ -91,9 +91,9 @@
 	% \fancyhead[L]{\clearance{Top Secret SCI with CI polygraph}}
 	\fancyhead[R]{\lastupdated}
 	\fancyhead[C]{\namesection{Joe}{Hilbert}{
-    	Github:// \href{https://github.com/jhilbs3}{\bf jhilbs3}
-		Email:// \href{mailto:jhilbs3@gmail.com}{\bf jhilbs3@gmail.com} \\
-		+1-910-964-9114\\
+    	 \href{https://github.com/jhilbs3}{\bf github.com/jhilbs3}
+		| \href{mailto:jhilbs3@gmail.com}{\bf jhilbs3@gmail.com} \\
+		\sectionsep
 	}}
 	\fancyfoot[C]{} % Prevent page numbers
 	\renewcommand{\headrulewidth}{0.4pt}
