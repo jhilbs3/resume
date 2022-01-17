@@ -92,7 +92,7 @@
 	\fancyhead[R]{\lastupdated}
 	\fancyhead[C]{\namesection{Joe}{Hilbert}{
     	 \href{https://github.com/jhilbs3}{\bf github.com/jhilbs3}
-		| \href{mailto:jhilbs3@gmail.com}{\bf jhilbs3@gmail.com} \\
+		| \href{mailto:jhilbs3@gmail.com}{\bf jhilbs3@gmail.com} \\ 
 		\sectionsep
 	}}
 	\fancyfoot[C]{} % Prevent page numbers
